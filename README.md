@@ -1,5 +1,5 @@
 # Algoritmos e Estruturas de Dados - Ordenação :computer:
-Desafio lançado pelo professor onde foi produzido artefatos contendo o desempenho e a análise dos algoritmos de **pesquisa sequencial e binária, árvore binária e tabela hash**.
+Desafio lançado pelo professor onde foi produzido artefatos contendo o desempenho e a análise dos algoritmos de ordenação **inserção, seleção, bolha, mergesort e quicksort**.
 
 ## Arquivos :books:
 1. [:orange_book: Desafio Proposto](desafio.pdf)
